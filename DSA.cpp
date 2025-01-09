@@ -183,7 +183,7 @@ int main()
 
 
 #include<iostream>
-#include<string.h>
+#include<cstring.h>
 #include<stdlib.h>
 using namespace std;
 struct Info
